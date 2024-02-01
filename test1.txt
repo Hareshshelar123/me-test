@@ -1,3 +1,5 @@
 i want to test how git work 
 
 thank you
+
+i am going to make same changes plase nmake soure it well all go get run
